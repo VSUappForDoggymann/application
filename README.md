@@ -6,5 +6,12 @@
 
 Для базы заводчиков и ветклиник будет составлен рейтинг (с возможностью выставлять зарегистрированным пользователям).
 
-Разработчики: Анжелика Калашникова -  anzhelikakalashnikova20001@gmail.com. Маргарита Воронцова - r.voroncova@mail.ru. Владимир Шевцов - parovozikdima77@yandex.ru
-https://trello.com/b/AXWZsS99/группа-4-2-1-проект-по-тп
+Разработчики: 
+
+Анжелика Калашникова -  anzhelikakalashnikova20001@gmail.com. 
+
+Маргарита Воронцова - r.voroncova@mail.ru. 
+
+Владимир Шевцов - parovozikdima77@yandex.ru
+
+Доска с задачами - https://trello.com/b/AXWZsS99/группа-4-2-1-проект-по-тп
