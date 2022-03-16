@@ -21,7 +21,7 @@
 - [Miro](https://miro.com/app/board/uXjVOHBBGm8=/)
 
 ## Документация
-- Техническое задание
-- Курсовая работа
+- Техническое задание(https://github.com/VSUappForDoggymann/application/files/8262634/_._._._._._.1.docx)
+- Курсовая работа(https://github.com/VSUappForDoggymann/application/files/8262626/1.docx)
 
 ## Сайт
