@@ -22,7 +22,7 @@
 
 ## Документация
 - [Техническое задание](https://github.com/VSUappForDoggymann/application/blob/main/f44526e6-05c4-44f2-a5b3-450a455a5563.pdf)
-- [Курсовая работа](https://github.com/VSUappForDoggymann/application/files/8312106/default.docx)
+- [Курсовой проект](https://github.com/VSUappForDoggymann/application/blob/main/2eb8c3b4-fc72-4083-9876-905c706af4ed.pdf)
 
 
 ## Сайт
