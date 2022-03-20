@@ -21,8 +21,8 @@
 - [Miro](https://miro.com/app/board/uXjVOHBBGm8=/)
 
 ## Документация
-- [Техническое задание](https://github.com/VSUappForDoggymann/application/blob/main/f44526e6-05c4-44f2-a5b3-450a455a5563.pdf)
-- [Курсовой проект](https://github.com/VSUappForDoggymann/application/blob/main/2eb8c3b4-fc72-4083-9876-905c706af4ed.pdf)
+- [Техническое задание](https://github.com/VSUappForDoggymann/application/blob/main/Техническое%20задание.pdf)
+- [Курсовой проект](https://github.com/VSUappForDoggymann/application/blob/main/Курсовой%20проект.pdf)
 
 
 ## Сайт
